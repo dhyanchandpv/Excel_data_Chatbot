@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+plotly
+openpyxl
+transformers
+torch
+llama-cpp-python==0.2.60

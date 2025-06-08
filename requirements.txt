@@ -1,0 +1,12 @@
+streamlit==1.31.1
+pandas==2.2.0
+openpyxl==3.1.2
+plotly==5.18.0
+numpy==1.26.3
+sentencepiece==0.1.99
+protobuf==4.25.2
+huggingface-hub==0.20.3
+tqdm==4.66.1
+transformers
+torch
+google-generativeai
